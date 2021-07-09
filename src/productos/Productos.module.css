@@ -1,0 +1,17 @@
+.primary{
+  background-color:snow;
+  font-size:small
+}
+
+.primary-header{
+  text-align: center; 
+  font-size: medium;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.primary-body{
+}
+
+.warning{
+  background-color:salmon
+}

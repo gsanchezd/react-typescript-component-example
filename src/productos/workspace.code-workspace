@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"name": "puesto-feria",
+			"path": "/"
+		}
+	],
+    "settings": {
+        "files.hotExit": "off",
+        "vsliveshare.join.reload.workspaceId": "19B9029308CBB4D7F62E014C1F3D4D35DDC1",
+        "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\Alumno\\AppData\\Local\\Temp\\vsliveshare\\tmp-19B9029308CBB4D7F62E014C1F3D4D35DDC1",
+        "vsliveshare.join.correlationId": "",
+        "extensions.ignoreRecommendations": true,
+        "debug.allowBreakpointsEverywhere": true,
+        "html.autoClosingTags": false,
+        "typescript.tsc.autoDetect": "off",
+        "git.ignoreLimitWarning": true
+    }
+}
